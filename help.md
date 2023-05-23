@@ -30,4 +30,5 @@ from the left side). Here's a code sample:
 
 # Nowa sekcja
 
-Informacje w sekcji ....
+Informacje w sekcji .... 
+Troche wiecej informacji
