@@ -27,3 +27,7 @@ from the left side). Here's a code sample:
 
     # Let me re-iterate ...
     for i in 1 .. 10 { do-something(i) }
+
+# Nowa sekcja
+
+Informacje w sekcji ....
